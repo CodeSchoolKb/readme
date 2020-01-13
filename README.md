@@ -2,6 +2,8 @@
 
 <!-- [![CodeSchoolKb](https://github.com/iTrauco/CodeSchoolKb/blob/master/assets/branding/logo_transparent_background.png)](http://codeschoolkb.com) -->
 
-# template
+# README.md
 
 > An Apple-inspired self-help macOS Knowledge Base(Kb) for the student developer community.
+
+
